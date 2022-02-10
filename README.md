@@ -1,6 +1,6 @@
 # jobsidneypage
 
-A new Flutter project.
+A new Flutter project that works both on android and iOS. also works as a web page.
 
 ## Getting Started
 
